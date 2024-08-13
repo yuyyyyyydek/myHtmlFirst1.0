@@ -1,0 +1,68 @@
+*{padding:0px;margin:0px;}
+body{height:940px;overflow:auto;}
+
+
+.header{height:31px;width:100%;background-color:#000;}
+.zk{width:980px;}
+.st{margin:auto;height:31px;background-color:#000;}
+.wz{color:#fff;}
+.wz li{list-style:none;float:right;color:#fff;padding-right:15px;line-height:31px;font-weight:100;}
+.wz li a{color:#fff;text-decoration:none;}
+.wz li a:hover{color:red;}
+.tt{position:relative;left:-910px;}
+.bgimg{width:960px;margin:auto;height:81px;line-height:81px;}
+.bgimg img{}
+.bd{float:right;}
+.bd .ssxx1{height:40px;width:180px;position:relative;left:-65px;/*top:-4px;*/}
+.bd .ssxx2{height:40px;width:90px;position:relative;left:-68px;}
+.dao{height:50px;width:100%;background-color:rgb(30,137,224);}
+.dao1{width:960px;margin:auto;background-color:rgb(30,137,224);}
+.dao1 li{float:left;list-style:none;font-size:20px;padding:0 12px 0;line-height:50px;color:#fff;background-color:rgb(30,137,224);}
+
+.dao1 li:hover{background-color:rgb(36,154,250);}
+
+.xbt{height:50px;width:960px;margin:auto;border:gray solid 1px;background-color:rgb(248,248,248)}
+.xbt ul li{list-style:none;float:left;padding-right:20px;line-height:50px;}
+.xbt ul li a{text-decoration:none;}
+.xbt ul li a:hover{color:red;}
+.xbt1 span{background-color:rgb(137,195,255)}
+.xbt2 span{background-color:rgb(156,198,55)}
+.xbt2 b{color:blue;}
+.xbt2 p{color:red;}
+
+
+
+.section{width:960px;height:510px;margin:auto;position:relative;top:240px;}
+.section1{width:308px;height:508px;border:gray solid 1px;overflow:hidden;float:left;}
+.section1 ul li a{text-decoration:none;color:#000;}
+.section1 ul li a:hover{color:red;}
+.section2{width:389px;height:508px;border:solid gray 1px;overflow:hidden;float:left;}
+
+.section2 ul li{list-style:none;padding-left:10px;font-size:20px;padding-bottom:2px;}
+.section2 ul li a{text-decoration:none;color:#000;}
+.section2 ul li a:hover{color:red;}
+
+.section3{width:250px; height:508px;border:solid gray 1px;overflow:hidden;}
+.section3 ul li{list-style:none;font-size:14px;}
+.section3 ul li a{text-decoration:none;color:#000;}
+.section3 ul li a:hover{color:red;}
+
+.yqlj{height:30px;width:960px;margin:auto;line-height:30px;}
+.yqlj ul li{list-style:none;float:left;padding-right:20px;}
+.yqlj ul li a{text-decoration:none;color:#000;}
+.yqlj ul li a:hover{color:red;}
+
+.footer{width:200px;height:200px;margin:0 auto;}
+
+
+.footer  li{float:left;list-style:none;position:relative;top:290px}
+.footer  li a{text-decoration:none;color:gray;}
+.footer  li a:hover{color:red;}
+.footer p{text-align:center;}
+
+
+
+
+
+
+
